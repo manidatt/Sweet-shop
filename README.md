@@ -78,7 +78,8 @@ Sweet-Shop/
 npm install
 
 ---
-## usage
+
+# Usage
 Register/Login
 
 Go to /register to create a new account.
