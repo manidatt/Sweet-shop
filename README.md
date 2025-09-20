@@ -77,14 +77,43 @@ Sweet-Shop/
 ```bash
 npm install
 
-###Usage
+---
+###USAGE
+Register/Login
 
-1)Register a new user or login.
-2)Admin users can:
-3)Add new sweets with images
-4)Restock, update, and delete sweets
-5)Users can:
-6)Browse and search sweets
-7)Add items to the cart and checkout
-8)The shopping cart shows selected items before purchase.
+Go to /register to create a new account.
+
+Go to /login to access your account.
+
+JWT token is saved in localStorage after login.
+
+Browse Sweets
+
+View all available sweets on the dashboard.
+
+Use the search bar to filter by:
+
+Name
+
+Category
+
+Price range
+
+Cart
+
+Click Add to Cart to add a sweet.
+
+View cart to see selected items.
+
+Click Checkout to purchase items (updates stock in backend).
+
+Admin Features
+
+Add new sweets with name, category, price, quantity, and image URL.
+
+Restock existing sweets.
+
+Delete sweets.
+
+Update sweet details.
 
