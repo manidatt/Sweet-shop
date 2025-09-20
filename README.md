@@ -38,7 +38,7 @@ A full-stack web application for managing and purchasing Indian sweets. Built wi
 
 - **Backend:** Java, Spring Boot, Spring Security, JWT, H2/MySQL
 - **Frontend:** React.js, Axios, React Router
-- **Other Tools:** Git, GitHub, VS Code, Eclipse
+- **Other Tools:** Git, GitHub, VS Code, Eclipse,Chat gpt
 
 ---
 
@@ -66,14 +66,15 @@ Sweet-Shop/
 3. Build the project and run `SweetShopApplication.java`.
 4. The backend runs by default on:  
    `http://localhost:8080/`
-
+5.Used Chat gpt for helping in authentication and autherization using JWT
 ---
 
 ### Frontend
 
 1. Open the frontend folder in **VS Code**.
 2. Install dependencies:
-
+3. Used Chat gpt for communicating between backend and frontend
+4. Chat gpt helped in recieving tokens from backend and improve my frontend logic contributing around 40% code.
 ```bash
 npm install
 
