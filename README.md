@@ -118,9 +118,9 @@ Restock existing sweets.
 Delete sweets.
 
 Update sweet details.
-<img width="1366" height="768" alt="Login Register" src="https://github.com/user-attachments/assets/08458f9b-6c35-4c97-9555-f6a73a44c9a7" />
+
 
 
 ##ScreenShots
-
+Please refer the above images for the screenshots and working
 
