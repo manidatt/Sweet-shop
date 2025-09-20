@@ -1,0 +1,8 @@
+# Backend
+/Sweet_Shop(backend)/target/
+/Sweet_Shop(backend)/.classpath
+/Sweet_Shop(backend)/.project
+/Sweet_Shop(backend)/.settings/
+
+/frontend/sweetshop/node_modules/
+/frontend/sweetshop/build/
