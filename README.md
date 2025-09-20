@@ -78,7 +78,7 @@ Sweet-Shop/
 npm install
 
 ---
-###USAGE
+## usage
 Register/Login
 
 Go to /register to create a new account.
@@ -116,4 +116,6 @@ Restock existing sweets.
 Delete sweets.
 
 Update sweet details.
+
+
 
